@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+BEGIN:VEVENT
+UID:1 245@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140327T201500
+SUMMARY:HSV Handball - Füchse Berlin (DKB HBL)
+DESCRIPTION:DKB HBL\nHSV Handball - Füchse Berlin\n 27.03.14\n 20:15\nGeipel/Helbig
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 242@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140409T201500
+SUMMARY:TSV GWD Minden - HSV Handball (DKB HBL)
+DESCRIPTION:DKB HBL\nTSV GWD Minden - HSV Handball\n 09.04.14\n 20:15\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 257@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140415T201500
+SUMMARY:SC Magdeburg - HSV Handball (DKB HBL)
+DESCRIPTION:DKB HBL\nSC Magdeburg - HSV Handball\n 15.04.14\n 20:15\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 263@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140501T170000
+SUMMARY:HSV Handball - SG Flensburg-Handewitt (DKB HBL)
+DESCRIPTION:DKB HBL\nHSV Handball - SG Flensburg-Handewitt\n 01.05.14\n 17:00\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 273@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140504T201500
+SUMMARY:Rhein-Neckar Löwen - HSV Handball (DKB HBL)
+DESCRIPTION:DKB HBL\nRhein-Neckar Löwen - HSV Handball\n 04.05.14\n 20:15\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 281@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140510T190000
+SUMMARY:HSV Handball - TSV Hannover-Burgdorf (DKB HBL)
+DESCRIPTION:DKB HBL\nHSV Handball - TSV Hannover-Burgdorf\n 10.05.14\n 19:00\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 294@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140517T190000
+SUMMARY:TBV Lemgo - HSV Handball (DKB HBL)
+DESCRIPTION:DKB HBL\nTBV Lemgo - HSV Handball\n 17.05.14\n 19:00\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:1 299@http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1
+DTSTART:20140524T160000
+SUMMARY:HSV Handball - TV Emsdetten (DKB HBL)
+DESCRIPTION:DKB HBL\nHSV Handball - TV Emsdetten\n 24.05.14\n 16:00\nnoch nicht angesetzt !!!
+CATEGORIES:Sport, Handball
+TRANSP:OPAC
+STATUS: CONFIRMED
+URL:<a itemprop="url" href="http://sis-handball.de/web/Mannschaft/default.aspx?view=Mannschaft&Liga=001514000000000000000000000000000001003&clear=1">zu sis-handball.de</a>
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
